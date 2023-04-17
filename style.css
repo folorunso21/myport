@@ -616,7 +616,6 @@ span  {
   /* services start here */
 
   #services {
-    /* background-color: #37FF8B; */
     height: 50vh;
   }
 
@@ -625,7 +624,6 @@ span  {
     display: grid;
     justify-content: space-between;
     gap: 10px;
-    /* background-color: #37FF8B; */
     align-items: center;
     grid-template-columns: repeat(4,1fr);
   }
