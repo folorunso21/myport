@@ -594,7 +594,7 @@ span  {
 
 /* media min 500 ends here */
 
-@media screen and (min-width:900px) {
+@media screen and (min-width:950px) {
   
   /* skillss starts here */
 
@@ -625,6 +625,7 @@ span  {
     display: grid;
     justify-content: space-between;
     gap: 10px;
+    /* background-color: #37FF8B; */
     align-items: center;
     grid-template-columns: repeat(4,1fr);
   }
